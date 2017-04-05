@@ -1,0 +1,21 @@
+* master:
+.gitignore
+MyRepo.txt
+README.md
+develop1.txt
+myinfo.txt
+* develop:
+.gitignore
+MyRepo.txt
+README.md
+develop1.txt
+myinfo.txt
+develop2.txt
+develop3.txt
+* newfeature:
+.gitignore
+MyRepo.txt
+README.md
+develop1.txt
+myinfo.txt
+newfeature.txt
